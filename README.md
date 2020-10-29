@@ -1,4 +1,4 @@
-# 45in1-7-colour-led
+# arduino-45in1-7-colour-led
 
 A basic example of controlling a 7 colour LED using an Arduino.
 
