@@ -1,4 +1,4 @@
-# Arduino 7 Colour LED
+# Arduino and a 7 Colour LED
 
 A basic example of controlling a 7 colour LED using an Arduino.
 
