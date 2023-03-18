@@ -25,6 +25,8 @@ void loop()
 
 > [View the Arduino code on Arduino Create](https://create.arduino.cc/editor/professoradam/a138a69e-3346-447d-888c-48453e31be7d/preview)
 
+## Curcuit 
+
 You will need to setup the following circuit using your Arduino:
 
 ![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/45in1-7-colour-led/main/_readme/tinkercad-7-colour-led.png)
