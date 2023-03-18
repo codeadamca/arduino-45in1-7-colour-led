@@ -6,7 +6,7 @@ A basic example of controlling a 7 colour LED using an Arduino.
 
 Open up [Arduino Create](https://create.arduino.cc/editor/) and add the following code:
 
-```csharp
+```cpp
 int crtl =  13;
 
 void setup()   {                
@@ -31,8 +31,9 @@ You will need to setup the following circuit using your Arduino:
 
 [View the Circuit on Tinkercad](https://www.tinkercad.com/things/70JidFT9pyj)
 
+***
 
-## Tutorial Requirements:
+## Repository Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [Arduino Create](https://create.arduino.cc/editor) 
@@ -42,5 +43,3 @@ Full tutorial URL: https://codeadam.ca/learning/arduino-45in1.html
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
-
-
