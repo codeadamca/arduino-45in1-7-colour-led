@@ -29,7 +29,7 @@ void loop()
 
 You will need to setup the following circuit using your Arduino:
 
-![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/45in1-7-colour-led/main/_readme/tinkercad-7-colour-led.png)
+![Tinkercad Circuit](_readme/tinkercad-7-colour-led.png)
 
 > [View the Circuit on Tinkercad](https://www.tinkercad.com/things/70JidFT9pyj)
 
